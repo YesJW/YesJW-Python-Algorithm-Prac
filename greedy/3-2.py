@@ -15,4 +15,4 @@ while(count1 != m-1):
 
 print(sum)
 
-#큰수의 법칙 그리디
+#큰수의 법칙
